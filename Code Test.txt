@@ -1,0 +1,16 @@
+Skills Challenge/Code Test:
+Please complete ONE of the following coding challenges in either JavaScript or Python. Upload your code to a public repository (GitHub, GitLab, etc) and provide us with the URL to repository. As part of the README.md in your repository, document the testing you did and the different datasets you used to test your code.
+
+1) Write a simple function (less than 160 characters) that returns a Boolean indicating whether or not a string is a palindrome.
+
+2) Create a function that, given a DOM Element on the page, will visit the element itself and all of its descendants (not just its immediate children). For each element visited, the function should pass
+that element to a provided callback function.
+The arguments to the function should be:
+• a DOM element
+• a callback function (that takes a DOM element as its argument)
+
+3) Create a for loop that iterates up to 100 while outputting "fizz" at multiples of 3, "buzz" at multiples of 5 and "fizzbuzz" at multiples of 3 and 5.
+
+4) Given an array of numbers, write a function to move all zeroes to the end of it while maintaining the relative order of the non-zero elements.
+
+5) Given two sentences, return an array that has the words that appear in one sentence and not the other and an array with the words in common.
